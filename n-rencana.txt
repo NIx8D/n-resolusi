@@ -8,5 +8,6 @@ rencana n
 - b
   +1
 - c
+  + Lr
 - d
 - e
