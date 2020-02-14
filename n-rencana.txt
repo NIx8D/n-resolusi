@@ -2,7 +2,8 @@ rencana n
 - a
   + 1
   + 2
-    ^A
+    ^ A
+    ^ B
   + 3
 - b
   +1
