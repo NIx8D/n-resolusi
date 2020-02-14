@@ -2,7 +2,11 @@ rencana n
 - a
   + 1
   + 2
+    ^ A
+    ^ B
   + 3
 - b
+  +1
 - c
 - d
+- e
