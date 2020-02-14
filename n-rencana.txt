@@ -2,7 +2,9 @@ rencana n
 - a
   + 1
   + 2
+    ^ An
+    ^ Rc
   + 3
-- b
 - c
+  + Lr
 - d
