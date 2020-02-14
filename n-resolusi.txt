@@ -1,0 +1,6 @@
+n resolusi
+- a
+- b
+- c
+- d
+- e
